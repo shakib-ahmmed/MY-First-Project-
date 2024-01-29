@@ -1,0 +1,29 @@
+body{
+    background-image:a4b1369896a081f008f85efa78ee5270_w200.gif;
+}
+a{
+    color: crimson;
+    font-size: 30px
+}
+
+img{
+    max-width: 90%;
+}
+table{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse:collapse;
+}
+
+ul{
+    list-style-type:armenian;
+    color: black;
+}
+
+h1, p {
+    border: 1px colid color(red green blue)
+}
+
+#title{
+    background-color: red;
+    colour: red
+}

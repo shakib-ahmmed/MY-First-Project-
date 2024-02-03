@@ -1,0 +1,36 @@
+h1{
+    color: blue; font-size: xx-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:500px; animation-name: inherit;
+}
+
+h2{color: black; font-size: 200px; font-family: 'Times New Roman', Times, serif;
+
+
+}
+p{
+
+}
+
+div{
+    width: 200px;
+    height: 500px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+}
+
+div p{
+     color: burlywood;
+}
+.text-BK{
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.first-div{
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.first-div p{
+    color: cornflowerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}

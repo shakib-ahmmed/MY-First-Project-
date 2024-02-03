@@ -74,3 +74,66 @@ h1{
 
 /* Bordar Work */
 
+h1{
+   /*  border-style: groove;
+    border-width: 10px;
+    border-color: rgb(221, 25, 25);
+
+    border: 10px;
+    border-radius: 60px;
+    border-color: #2ecc71; */
+
+    border-left: 20px solid green;
+    border-top: 20px solid red;
+    border-right: 20px solid blue;
+    border-bottom: 20px solid yellow;
+
+    border-left-style: groove;
+    border-top-style: groove;
+    border-top-style: groove;
+    border-bottom-style: groove;
+}
+
+/* Marjin & Padding Work */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: bisque;
+    width: 300px;
+    height: 300px;
+    margin-top: 50px;
+    padding-top: 50px;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+
+    padding: 20px;
+    margin: 25px auto;
+
+
+}
+
+/*
+.child-div{
+    background-color:#C4E538 ;
+    margin-top: 20px;
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+} */
+
+.child-div{
+    background-color: #C4E538;
+    margin: 25px 30px;
+    padding: 25px 30px;
+
+    margin: 10px auto;
+    padding: 25px auto;
+
+}

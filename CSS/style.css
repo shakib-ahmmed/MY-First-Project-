@@ -1,14 +1,21 @@
+*{
+    margin: 0%;
+    color: cornsilk;
+    padding: 0%;
+}
+
 h1{
     color: blue; font-size: xx-large; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-size:500px; animation-name: inherit;
 }
 
 h2{color: black; font-size: 200px; font-family: 'Times New Roman', Times, serif;
 
-
 }
 p{
 
 }
+
+/* Same text */
 
 div{
     width: 200px;
@@ -23,14 +30,47 @@ div p{
 .text-BK{
     color: cornflowerblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aquamarine;
 }
 .first-div{
     color: cornflowerblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 
+
 }
 .first-div p{
     color: cornflowerblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin:0%;
 
 }
+#big_div{
+    color: black; margin: 0%;
+
+}
+#big_div-2{
+
+}
+
+
+/* Color Work */
+body{
+    background: url(bg2.jpg);
+}
+
+h1{
+    color: aqua;
+    color: #010; 
+    color: #fa55;
+    color: gray;
+    color: antiquewhite;
+    color: blue;
+    color: rgb(179, 163, 24);
+    color: rgb (20, 20, 73)
+    color(#2ecc71)
+
+
+}
+
+/* Bordar Work */
+
